@@ -1,0 +1,10 @@
+{
+  "name": "ccb-git-helper",
+  "version": "1.0.0",
+  "description": "Git operations helper - smart commits, branch management, stash with metadata",
+  "scripts": {
+    "start": "node scripts/main.*"
+  },
+  "keywords": ["openclaw", "ccb", "git-helper"],
+  "license": "MIT"
+}
